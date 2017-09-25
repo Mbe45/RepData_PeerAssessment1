@@ -3,7 +3,8 @@ title: "Activity monitory"
 author: "Emmanuel Mbecho Techago"
 date: "23 September 2017"
 output:
-  html_document:
+  html_document:  
+     keep_md: true
      toc: true
 ---
 
